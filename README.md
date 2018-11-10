@@ -37,7 +37,7 @@ from the waypoints. This locates car at the origin and heading orientation angle
 ## Model Predictive Control with Latency
 
 There is 0.1 second latency in telemetry, the car drifting due to the latency.
-To deal with this, the position and oritentaion of the car was compensated before tranformation.
+To deal with this, the position and oritentaion of the car was compensated before transformation.
 
 ## Dependencies
 
